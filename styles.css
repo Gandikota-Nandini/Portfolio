@@ -1,0 +1,27 @@
+body{
+scroll-behavior:smooth;
+}
+
+.profile-img{
+width:180px;
+height:180px;
+border-radius:50%;
+object-fit:cover;
+border:5px solid #0d6efd;
+}
+
+section{
+padding-top:60px;
+}
+
+.skill-card{
+transition:0.3s;
+}
+
+.skill-card:hover{
+transform:scale(1.05);
+}
+
+.card{
+box-shadow:0 4px 8px rgba(0,0,0,0.1);
+}
