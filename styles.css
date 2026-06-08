@@ -3,11 +3,11 @@ scroll-behavior:smooth;
 }
 
 .profile-img{
-width:180px;
-height:180px;
+width:220px;
+height:220px;
 border-radius:50%;
 object-fit:cover;
-border:5px solid #0d6efd;
+border:2px solid #18095b;
 }
 
 section{
